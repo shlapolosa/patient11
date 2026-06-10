@@ -27,3 +27,4 @@ spec:
 - patient11-api (python/fastapi)
 - patient11-records (python/fastapi)
 - patient11-records (python/fastapi)
+- patient11-api (python/fastapi)
