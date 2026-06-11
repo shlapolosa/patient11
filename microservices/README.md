@@ -26,3 +26,4 @@ spec:
 - (Services will be listed here as they are added)
 - patient11-api (python/fastapi)
 - patient11-api (python/fastapi)
+- patient11-records (python/fastapi)
